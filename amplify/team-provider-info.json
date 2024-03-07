@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-circles-dev-125503-authRole",
+      "UnauthRoleArn": "arn:aws:iam::432617411122:role/amplify-circles-dev-125503-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::432617411122:role/amplify-circles-dev-125503-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-circles-dev-125503-deployment",
+      "UnauthRoleName": "amplify-circles-dev-125503-unauthRole",
+      "StackName": "amplify-circles-dev-125503",
+      "StackId": "arn:aws:cloudformation:us-east-1:432617411122:stack/amplify-circles-dev-125503/34dcbe90-dcb4-11ee-b2af-0efc242b13a5",
+      "AmplifyAppId": "d3l4yytr2ux0m8"
+    }
+  }
+}
