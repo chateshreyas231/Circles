@@ -10,10 +10,7 @@ import SignupScreen from './logNav/Signup';
 import {Amplify} from 'aws-amplify';
 import amplifyconfig from '../amplifyconfiguration.json';
 
-// ; Secret access key: aIeatgGdTGvkYuC7C6XOPsASblrkvmRXxkv5IoHy
-//access key : AKIAWJOQB2IZCIVDXA4Y
-
-Amplify.configure(amplifyconfig);
+Amplify.configure(amplifyconfig); 
 
 export {
   // Catch any errors thrown by the Layout component.
